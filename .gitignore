@@ -1,0 +1,15 @@
+#Generated log files
+logs/*.log
+
+#Temporary files
+*.tmp
+*.swap
+*~
+
+#Backup files
+*.bak
+
+#Sensitive files
+.env
+*.pem
+*.key
